@@ -1,4 +1,3 @@
-
 from datetime import date
 
 #Ex. 1
@@ -30,7 +29,7 @@ toCompare = date(int(year), int(month), int(day))
 
 print(today - toCompare)
 
-Ex. 6
+#Ex. 6
 sign = input("""
 Wybierz działanie:
     + dodawanie
